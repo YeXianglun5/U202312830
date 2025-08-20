@@ -1,0 +1,1 @@
+初步学会使用git，如git clone+url链接，git commit与git push等，但是使用还不够熟悉，不会邀请其他同学进行项目合作，不会使用分支等
